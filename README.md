@@ -1,5 +1,5 @@
 # Heart-Disease-Prediction
-Project on Heart Disease Prediction in collaboration with SRM medical
+Project on Heart Disease Prediction in collaboration with SRM medical 
 
 ## Objective
 To predict whether a patient is at risk for a heart attack. This is a binary outcome.
